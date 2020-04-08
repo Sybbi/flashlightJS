@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: url(../img/cat.jpg);
+  background-size: cover;
+  height: 100vh;
+  cursor: none;
+}
+.light {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: radial-gradient( circle, transparent 100px, rgba(0, 0, 0, 1) 150px);
+}
